@@ -16,6 +16,14 @@ List of sociologic phanomena every nerd should know about, because problems cann
 - [Diffusion of responsibility](https://en.wikipedia.org/wiki/Diffusion_of_responsibility)
 - [Decadence](https://en.wikipedia.org/wiki/Decadence)
 
+## Financial Systems
+- [Letter of Indulgence](https://en.wikipedia.org/wiki/Letter_of_indulgence)
+- [Gold Standard](https://en.wikipedia.org/wiki/Gold_standard)
+- [Fiat Money](https://en.wikipedia.org/wiki/Fiat_money)
+- [Hyperinflation](https://en.wikipedia.org/wiki/Hyperinflation)
+- [Bretton Woods System](https://en.wikipedia.org/wiki/Bretton_Woods_system)
+- [Private Federal Reserve System](https://en.wikipedia.org/wiki/Federal_Reserve_System)
+- [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
 
 ## Scope of Artificial Intelligence for Modern Civilisations
 - [Live 3.0](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598)
