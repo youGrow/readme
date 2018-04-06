@@ -31,7 +31,8 @@ List of sociologic phanomena every nerd should know about, because problems cann
 - [Ministry for State Security](https://en.wikipedia.org/wiki/Stasi)
 - [Global Mass Surveillance Disclosures](https://en.wikipedia.org/wiki/2013_mass_surveillance_disclosures)
 
-## Implications of Artificial Intelligence
+## Artificial Intelligence
+- [Alpha Zero vs. Alpha Go](https://en.wikipedia.org/wiki/AlphaZero#Go)
 - [Future of Work](https://www.cbre.com/research-and-reports/future-of-work)
 - [Book: Live 3.0](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598)
 - [Documentary: "Do you trust this computer?"](http://doyoutrustthiscomputer.org/watch)
