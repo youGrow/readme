@@ -23,6 +23,7 @@ List of sociologic phanomena every nerd should know about, because problems cann
 - [Hyperinflation](https://en.wikipedia.org/wiki/Hyperinflation)
 - [Bretton Woods System](https://en.wikipedia.org/wiki/Bretton_Woods_system)
 - [Private Federal Reserve System](https://en.wikipedia.org/wiki/Federal_Reserve_System)
+- [Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk)
 - [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
 
 ## Scope of Artificial Intelligence for Modern Civilisations
