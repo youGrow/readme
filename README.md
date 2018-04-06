@@ -15,6 +15,7 @@ List of sociologic phanomena every nerd should know about, because problems cann
 - [Propaganda](https://en.wikipedia.org/wiki/Propaganda)
 - [Diffusion of responsibility](https://en.wikipedia.org/wiki/Diffusion_of_responsibility)
 - [Decadence](https://en.wikipedia.org/wiki/Decadence)
+- [Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)
 
 ## Financial Systems
 - [Letter of Indulgence](https://en.wikipedia.org/wiki/Letter_of_indulgence)
@@ -22,10 +23,15 @@ List of sociologic phanomena every nerd should know about, because problems cann
 - [Fiat Money](https://en.wikipedia.org/wiki/Fiat_money)
 - [Hyperinflation](https://en.wikipedia.org/wiki/Hyperinflation)
 - [Bretton Woods System](https://en.wikipedia.org/wiki/Bretton_Woods_system)
-- [Private Federal Reserve System](https://en.wikipedia.org/wiki/Federal_Reserve_System)
+- [Federal Reserve System](https://en.wikipedia.org/wiki/Federal_Reserve_System)
 - [Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk)
 - [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
 
-## Scope of Artificial Intelligence for Modern Civilisations
-- [Live 3.0](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598)
-- [do you trust this computer](http://doyoutrustthiscomputer.org/watch)
+## Mass Surveillance
+- [Ministry for State Security](https://en.wikipedia.org/wiki/Stasi)
+- [Global Mass Surveillance Disclosures](https://en.wikipedia.org/wiki/2013_mass_surveillance_disclosures)
+
+## Implications of Artificial Intelligence
+- [Future of Work](https://www.cbre.com/research-and-reports/future-of-work)
+- [Book: Live 3.0](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598)
+- [Documentary: "Do you trust this computer?"](http://doyoutrustthiscomputer.org/watch)
