@@ -15,3 +15,8 @@ List of sociologic phanomena every nerd should know about, because problems cann
 - [Propaganda](https://en.wikipedia.org/wiki/Propaganda)
 - [Diffusion of responsibility](https://en.wikipedia.org/wiki/Diffusion_of_responsibility)
 - [Decadence](https://en.wikipedia.org/wiki/Decadence)
+
+
+## Scope of Artificial Intelligence for Modern Civilisations
+- [Live 3.0](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598)
+- [do you trust this computer](http://doyoutrustthiscomputer.org/watch)
