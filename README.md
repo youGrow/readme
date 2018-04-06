@@ -11,6 +11,6 @@ List of sociologic phanomena every nerd should read about, because problems cann
 - [Cargo Cult](https://en.wikipedia.org/wiki/Cargo_cult) 
 - [Cargo Cult Science](https://en.wikipedia.org/wiki/Cargo_cult_science)
 - [Signalling Theory](https://en.wikipedia.org/wiki/Signalling_theory)
-- [Empire](https://en.wikipedia.org/wiki/Empire)
+- [Failed Empires](https://en.wikipedia.org/wiki/Empire)
 - [Propaganda](https://en.wikipedia.org/wiki/Propaganda)
 - [Decadence](https://en.wikipedia.org/wiki/Decadence)
