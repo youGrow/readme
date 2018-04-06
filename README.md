@@ -13,4 +13,5 @@ List of sociologic phanomena every nerd should know about, because problems cann
 - [Signalling Theory](https://en.wikipedia.org/wiki/Signalling_theory)
 - [Failed Empires](https://en.wikipedia.org/wiki/Empire)
 - [Propaganda](https://en.wikipedia.org/wiki/Propaganda)
+- [Diffusion of responsibility](https://en.wikipedia.org/wiki/Diffusion_of_responsibility)
 - [Decadence](https://en.wikipedia.org/wiki/Decadence)
