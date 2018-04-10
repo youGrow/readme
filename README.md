@@ -9,13 +9,19 @@ List of sociologic phanomena every nerd should know about, because problems cann
 ## Irrational Civilisations
 - [Golden Calf](https://en.wikipedia.org/wiki/Golden_calf)
 - [Cargo Cult](https://en.wikipedia.org/wiki/Cargo_cult) 
-- [Cargo Cult Science](https://en.wikipedia.org/wiki/Cargo_cult_science)
 - [Signalling Theory](https://en.wikipedia.org/wiki/Signalling_theory)
 - [Failed Empires](https://en.wikipedia.org/wiki/Empire)
 - [Propaganda](https://en.wikipedia.org/wiki/Propaganda)
 - [Diffusion of responsibility](https://en.wikipedia.org/wiki/Diffusion_of_responsibility)
 - [Decadence](https://en.wikipedia.org/wiki/Decadence)
 - [Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)
+
+## Common Logical Fallacies
+- [Straw Man](https://en.wikipedia.org/wiki/Straw_man)
+- [Slippery Slope](https://en.wikipedia.org/wiki/Slippery_slope)
+- [Cargo Cult Science](https://en.wikipedia.org/wiki/Cargo_cult_science)
+- [Dunning Kruger Effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+- [Splitting](https://en.wikipedia.org/wiki/Splitting_(psychology))
 
 ## Financial Systems
 - [Letter of Indulgence](https://en.wikipedia.org/wiki/Letter_of_indulgence)
