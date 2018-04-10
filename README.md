@@ -14,6 +14,7 @@ List of sociologic phanomena every nerd should know about, because problems cann
 - [Propaganda](https://en.wikipedia.org/wiki/Propaganda)
 - [Diffusion of responsibility](https://en.wikipedia.org/wiki/Diffusion_of_responsibility)
 - [Decadence](https://en.wikipedia.org/wiki/Decadence)
+- [Arms Race](https://en.wikipedia.org/wiki/Arms_race)
 - [Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)
 
 ## Common Logical Fallacies
