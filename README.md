@@ -17,6 +17,7 @@ List of sociologic phanomena every nerd should know about, because problems cann
 - [Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)
 
 ## Common Logical Fallacies
+- [Argument from Authority](https://en.wikipedia.org/wiki/Argument_from_authority)
 - [Straw Man](https://en.wikipedia.org/wiki/Straw_man)
 - [Slippery Slope](https://en.wikipedia.org/wiki/Slippery_slope)
 - [Cargo Cult Science](https://en.wikipedia.org/wiki/Cargo_cult_science)
