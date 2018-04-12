@@ -17,6 +17,16 @@ List of sociologic phanomena every nerd should know about, because problems cann
 - [Arms Race](https://en.wikipedia.org/wiki/Arms_race)
 - [Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)
 
+## Modern Wars
+"I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones." Albert Einstein (1949)
+
+- [World War 1](https://en.wikipedia.org/wiki/World_War_I)
+- [World War 2](https://en.wikipedia.org/wiki/World_War_II)
+- [Cold War](https://en.wikipedia.org/wiki/Cold_War)
+- [War on Terror](https://en.wikipedia.org/wiki/War_on_Terror)
+- [World War 3](https://en.wikiquote.org/wiki/World_War_III)
+
+
 ## Common Logical Fallacies
 - [Argument from Authority](https://en.wikipedia.org/wiki/Argument_from_authority)
 - [Straw Man](https://en.wikipedia.org/wiki/Straw_man)
