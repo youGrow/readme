@@ -1,6 +1,6 @@
-# readme
+# ReadMe
 
-List of sociologic phanomena every nerd should know about, because problems cannot be solved by the level of awareness that created them.
+List of sociologic phenomena every nerd should know about, because problems cannot be solved by the level of awareness that created them.
 
 ## Science
 - [Scientific Method](https://en.wikipedia.org/wiki/Scientific_method)
