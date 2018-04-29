@@ -1,6 +1,6 @@
 # readme
 
-List of sociologic phanomena every nerd should know about, because problems cannot be solved by the level of awareness that created them.
+List of phenomena every nerd should know about, because problems cannot be solved by the level of awareness that created them.
 
 ## Evolution 
 - [Evolution](https://en.wikipedia.org/wiki/Evolution)
@@ -21,6 +21,13 @@ List of sociologic phanomena every nerd should know about, because problems cann
 - [Propaganda](https://en.wikipedia.org/wiki/Propaganda)
 - [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error)
 - [Signalling Theory](https://en.wikipedia.org/wiki/Signalling_theory)
+
+## Common Logical Fallacies
+- [Argument from Authority](https://en.wikipedia.org/wiki/Argument_from_authority)
+- [Straw Man](https://en.wikipedia.org/wiki/Straw_man)
+- [Slippery Slope](https://en.wikipedia.org/wiki/Slippery_slope)
+- [Dunning Kruger Effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+- [Splitting](https://en.wikipedia.org/wiki/Splitting_(psychology))
 
 ## Rational Civilisations
 - [Classical Greece](https://en.wikipedia.org/wiki/Classical_Greece)
@@ -47,12 +54,9 @@ List of sociologic phanomena every nerd should know about, because problems cann
 - [World War 3](https://en.wikiquote.org/wiki/World_War_III)
 - [Arms Race](https://en.wikipedia.org/wiki/Arms_race)
 
-## Common Logical Fallacies
-- [Argument from Authority](https://en.wikipedia.org/wiki/Argument_from_authority)
-- [Straw Man](https://en.wikipedia.org/wiki/Straw_man)
-- [Slippery Slope](https://en.wikipedia.org/wiki/Slippery_slope)
-- [Dunning Kruger Effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
-- [Splitting](https://en.wikipedia.org/wiki/Splitting_(psychology))
+## Mass Surveillance
+- [Ministry for State Security](https://en.wikipedia.org/wiki/Stasi)
+- [Global Mass Surveillance Disclosures](https://en.wikipedia.org/wiki/2013_mass_surveillance_disclosures)
 
 ## Financial Systems
 - [Gold Standard](https://en.wikipedia.org/wiki/Gold_standard)
@@ -62,10 +66,6 @@ List of sociologic phanomena every nerd should know about, because problems cann
 - [Federal Reserve System](https://en.wikipedia.org/wiki/Federal_Reserve_System)
 - [Cypherpunk](https://en.wikipedia.org/wiki/Cypherpunk)
 - [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
-
-## Mass Surveillance
-- [Ministry for State Security](https://en.wikipedia.org/wiki/Stasi)
-- [Global Mass Surveillance Disclosures](https://en.wikipedia.org/wiki/2013_mass_surveillance_disclosures)
 
 ## Artificial Intelligence
 - [Alpha Zero vs. Alpha Go](https://en.wikipedia.org/wiki/AlphaZero#Go)
