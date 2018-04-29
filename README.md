@@ -1,6 +1,6 @@
 # readme
 
-List of phenomena every nerd should know about, because problems cannot be solved by the level of awareness that created them.
+List of phenomena every human should know about, because problems cannot be solved by the level of awareness that created them.
 
 ## Evolution 
 - [Evolution](https://en.wikipedia.org/wiki/Evolution)
