@@ -2,6 +2,10 @@
 
 List of phenomena every human should know about, because problems cannot be solved by the level of awareness that created them.
 
+## Science
+- [Scientific Method](https://en.wikipedia.org/wiki/Scientific_method)
+- [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
+
 ## Evolution 
 - [Evolution](https://en.wikipedia.org/wiki/Evolution)
 - [Evolution of the Universe](https://en.wikipedia.org/wiki/Chronology_of_the_universe)
@@ -11,18 +15,15 @@ List of phenomena every human should know about, because problems cannot be solv
 - [Evolution of Technology](https://en.wikipedia.org/wiki/Technological_evolution)
 - [Evolution of Artificial Life](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
 
-## Science
-- [Scientific Method](https://en.wikipedia.org/wiki/Scientific_method)
-- [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
-
 ## Psychology and Sociology
 - [Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
-- [Diffusion of responsibility](https://en.wikipedia.org/wiki/Diffusion_of_responsibility)
-- [Propaganda](https://en.wikipedia.org/wiki/Propaganda)
-- [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error)
 - [Signalling Theory](https://en.wikipedia.org/wiki/Signalling_theory)
+- [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error)
+- [Propaganda](https://en.wikipedia.org/wiki/Propaganda)
+- [Diffusion of responsibility](https://en.wikipedia.org/wiki/Diffusion_of_responsibility)
 
 ## Common Logical Fallacies
+- [List of Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
 - [Argument from Authority](https://en.wikipedia.org/wiki/Argument_from_authority)
 - [Straw Man](https://en.wikipedia.org/wiki/Straw_man)
 - [Slippery Slope](https://en.wikipedia.org/wiki/Slippery_slope)
@@ -31,18 +32,19 @@ List of phenomena every human should know about, because problems cannot be solv
 
 ## Rational Civilisations
 - [Classical Greece](https://en.wikipedia.org/wiki/Classical_Greece)
+- [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
 - [Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)
 - [Peace Movement](https://en.wikipedia.org/wiki/Peace_movement)
 - [Complexity](https://en.wikipedia.org/wiki/Complexity)
 
 ## Irrational Civilisations
 - [Dark Ages](https://en.wikipedia.org/wiki/Dark_Ages_(historiography))
+- [Golden Calf](https://en.wikipedia.org/wiki/Golden_calf)
+- [Letter of Indulgence](https://en.wikipedia.org/wiki/Letter_of_indulgence)
 - [Cargo Cult](https://en.wikipedia.org/wiki/Cargo_cult)
 - [Cargo Cult Science](https://en.wikipedia.org/wiki/Cargo_cult_science)
-- [Golden Calf](https://en.wikipedia.org/wiki/Golden_calf)
 - [Decadence](https://en.wikipedia.org/wiki/Decadence)
 - [Failed Empires](https://en.wikipedia.org/wiki/Empire)
-- [Letter of Indulgence](https://en.wikipedia.org/wiki/Letter_of_indulgence)
 
 ## Modern Wars
 "I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones." Albert Einstein (1949)
