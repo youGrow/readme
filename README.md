@@ -29,7 +29,7 @@ List of sociologic phanomena every nerd should know about, because problems cann
 - [Complexity](https://en.wikipedia.org/wiki/Complexity)
 
 ## Irrational Civilisations
-- [Dark Ages](https://en.wikipedia.org/wiki/Dark_Ages_(historiography)
+- [Dark Ages](https://en.wikipedia.org/wiki/Dark_Ages_(historiography))
 - [Cargo Cult](https://en.wikipedia.org/wiki/Cargo_cult)
 - [Cargo Cult Science](https://en.wikipedia.org/wiki/Cargo_cult_science)
 - [Golden Calf](https://en.wikipedia.org/wiki/Golden_calf)
