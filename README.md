@@ -2,20 +2,40 @@
 
 List of sociologic phanomena every nerd should know about, because problems cannot be solved by the level of awareness that created them.
 
+## Evolution 
+- [Evolution](https://en.wikipedia.org/wiki/Evolution)
+- [Evolution of the Universe](https://en.wikipedia.org/wiki/Chronology_of_the_universe)
+- [Evolution of Life](https://en.wikipedia.org/wiki/Timeline_of_evolutionary_history_of_life)
+- [Evolution of Humans](https://en.wikipedia.org/wiki/Timeline_of_human_evolution)
+- [Evolution of Civilsation](https://en.wikipedia.org/wiki/Timelines_of_world_history)
+- [Evolution of Technology](https://en.wikipedia.org/wiki/Technological_evolution)
+- [Evolution of Artificial Life](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
+
 ## Science
 - [Scientific Method](https://en.wikipedia.org/wiki/Scientific_method)
 - [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
 
-## Irrational Civilisations
-- [Golden Calf](https://en.wikipedia.org/wiki/Golden_calf)
-- [Cargo Cult](https://en.wikipedia.org/wiki/Cargo_cult) 
-- [Signalling Theory](https://en.wikipedia.org/wiki/Signalling_theory)
-- [Failed Empires](https://en.wikipedia.org/wiki/Empire)
-- [Propaganda](https://en.wikipedia.org/wiki/Propaganda)
+## Psychology and Sociology
+- [Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 - [Diffusion of responsibility](https://en.wikipedia.org/wiki/Diffusion_of_responsibility)
-- [Decadence](https://en.wikipedia.org/wiki/Decadence)
-- [Arms Race](https://en.wikipedia.org/wiki/Arms_race)
+- [Propaganda](https://en.wikipedia.org/wiki/Propaganda)
+- [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error)
+- [Signalling Theory](https://en.wikipedia.org/wiki/Signalling_theory)
+
+## Rational Civilisations
+- [Classical Greece](https://en.wikipedia.org/wiki/Classical_Greece)
 - [Age of Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment)
+- [Peace Movement](https://en.wikipedia.org/wiki/Peace_movement)
+- [Complexity](https://en.wikipedia.org/wiki/Complexity)
+
+## Irrational Civilisations
+- [Dark Ages](https://en.wikipedia.org/wiki/Dark_Ages_(historiography)
+- [Cargo Cult](https://en.wikipedia.org/wiki/Cargo_cult)
+- [Cargo Cult Science](https://en.wikipedia.org/wiki/Cargo_cult_science)
+- [Golden Calf](https://en.wikipedia.org/wiki/Golden_calf)
+- [Decadence](https://en.wikipedia.org/wiki/Decadence)
+- [Failed Empires](https://en.wikipedia.org/wiki/Empire)
+- [Letter of Indulgence](https://en.wikipedia.org/wiki/Letter_of_indulgence)
 
 ## Modern Wars
 "I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones." Albert Einstein (1949)
@@ -25,18 +45,16 @@ List of sociologic phanomena every nerd should know about, because problems cann
 - [Cold War](https://en.wikipedia.org/wiki/Cold_War)
 - [War on Terror](https://en.wikipedia.org/wiki/War_on_Terror)
 - [World War 3](https://en.wikiquote.org/wiki/World_War_III)
-
+- [Arms Race](https://en.wikipedia.org/wiki/Arms_race)
 
 ## Common Logical Fallacies
 - [Argument from Authority](https://en.wikipedia.org/wiki/Argument_from_authority)
 - [Straw Man](https://en.wikipedia.org/wiki/Straw_man)
 - [Slippery Slope](https://en.wikipedia.org/wiki/Slippery_slope)
-- [Cargo Cult Science](https://en.wikipedia.org/wiki/Cargo_cult_science)
 - [Dunning Kruger Effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
 - [Splitting](https://en.wikipedia.org/wiki/Splitting_(psychology))
 
 ## Financial Systems
-- [Letter of Indulgence](https://en.wikipedia.org/wiki/Letter_of_indulgence)
 - [Gold Standard](https://en.wikipedia.org/wiki/Gold_standard)
 - [Fiat Money](https://en.wikipedia.org/wiki/Fiat_money)
 - [Hyperinflation](https://en.wikipedia.org/wiki/Hyperinflation)
