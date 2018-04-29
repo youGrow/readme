@@ -18,6 +18,7 @@ List of phenomena every human should know about, because problems cannot be solv
 ## Psychology and Sociology
 - [Hierarchy of Needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 - [Signalling Theory](https://en.wikipedia.org/wiki/Signalling_theory)
+- [Cognitive Dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance)
 - [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error)
 - [Propaganda](https://en.wikipedia.org/wiki/Propaganda)
 - [Diffusion of responsibility](https://en.wikipedia.org/wiki/Diffusion_of_responsibility)
