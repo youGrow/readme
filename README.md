@@ -5,6 +5,7 @@ List of phenomena every human should know about, because problems cannot be solv
 ## Science
 - [Scientific Method](https://en.wikipedia.org/wiki/Scientific_method)
 - [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
+- [Nonlinear Systems](https://en.wikipedia.org/wiki/Nonlinear_system)
 
 ## Evolution 
 - [Evolution](https://en.wikipedia.org/wiki/Evolution)
@@ -22,6 +23,7 @@ List of phenomena every human should know about, because problems cannot be solv
 - [Fundamental Attribution Error](https://en.wikipedia.org/wiki/Fundamental_attribution_error)
 - [Propaganda](https://en.wikipedia.org/wiki/Propaganda)
 - [Diffusion of responsibility](https://en.wikipedia.org/wiki/Diffusion_of_responsibility)
+- [Lateral Thinking](https://en.wikipedia.org/wiki/Lateral_thinking)
 
 ## Common Logical Fallacies
 - [List of Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
@@ -30,6 +32,7 @@ List of phenomena every human should know about, because problems cannot be solv
 - [Slippery Slope](https://en.wikipedia.org/wiki/Slippery_slope)
 - [Dunning Kruger Effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
 - [Splitting](https://en.wikipedia.org/wiki/Splitting_(psychology))
+- [Goodhart's law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
 
 ## Rational Civilisations
 - [Classical Greece](https://en.wikipedia.org/wiki/Classical_Greece)
