@@ -79,5 +79,5 @@ List of phenomena every human should know about, because problems cannot be solv
 - [Open Letter on Autonomous Weapons](https://futureoflife.org/open-letter-autonomous-weapons/)
 - [AI Open Letter](https://futureoflife.org/ai-open-letter/)
 - [Future of Work](https://www.cbre.com/research-and-reports/future-of-work)
-- [Book: Live 3.0](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598)
+- [Book: Life 3.0](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598)
 - [Documentary: "Do you trust this computer?"](http://doyoutrustthiscomputer.org/watch)
