@@ -82,3 +82,13 @@ List of phenomena every human should know about, because problems cannot be solv
 - [Future of Work](https://www.cbre.com/research-and-reports/future-of-work)
 - [Book: Life 3.0](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101946598)
 - [Documentary: "Do you trust this computer?"](http://doyoutrustthiscomputer.org/watch)
+
+## Psychological Warfare
+- [Edward Bernays](https://en.wikipedia.org/wiki/Edward_Bernays)
+- [Gustave Le Bon](https://en.wikipedia.org/wiki/Gustave_Le_Bon)
+- [Operation Mockingbird](https://en.wikipedia.org/wiki/Operation_Mockingbird)
+- [Milgram Experiment](https://en.wikipedia.org/wiki/Milgram_experiment)
+- [Stanford Prison Experiment](https://en.wikipedia.org/wiki/Stanford_prison_experiment)
+- [Asch conformity experiments](https://en.wikipedia.org/wiki/Asch_conformity_experiments)
+- [Biderman's Chart of Coercion](https://www.strath.ac.uk/media/1newwebsite/departmentsubject/socialwork/documents/eshe/Bidermanschartofcoercion.pdf)
+- [MK-Ultra](https://en.wikipedia.org/wiki/Project_MKUltra)
